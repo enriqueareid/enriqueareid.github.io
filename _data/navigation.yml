@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
   - title: "Resume/CV"
     url: /resume
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
