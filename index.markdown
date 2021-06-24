@@ -11,4 +11,4 @@ description: Student
 I'm a student.
 
 ## News
-projects
+Projects
