@@ -1,14 +1,14 @@
 ---
 layout: single
-author: Machel Reid
+author: Enrique Reid
 permalink: /resume/
-title: Resume
+title: Resume/CV
 toc: true
-toc_label: "Resume"
+toc_label: "Resume/CV"
 toc_sticky: true
 ---
-[PDF Version](/resources/machelreid_resume.pdf) (last updated -- Nov 2020)
-## Experience
+[PDF Version](/resources/enriqueareid_resume.pdf)
+## 
 ### Researcher - Matsuo Lab, The University of Tokyo
 ***November 2020 - Present***
 
