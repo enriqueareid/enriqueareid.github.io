@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Machel Reid
-email: machelreid2004@gmail.com
+title: Enrique Reid
+email: erarvin2007@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Researcher at the University of Tokyo working on natural language processing research
+  A deep learner on a journey to tar and gzip the world's knowledge into my brain.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://machelreid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: machelreid
-github_username:  machelreid
+url: "https://enriqueareid.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: erarvin2007
+github_username:  enriqueareid
 
 # Build settings
 # theme: minimal-mistakes-jekyll
@@ -54,14 +54,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-masthead_title: "Machel Reid"
+masthead_title: "Enrique Reid"
 defaults:
   # _posts
   - scope:
       path: ""
     values:
       author_profile: true
-      description: Researcher at the University of Tokyo working on natural language processing research
+      description: A deep learner on a journey to tar and gzip the world's knowledge into my brain.
 future: false
 
 # analytics
@@ -69,5 +69,5 @@ future: false
 analytics: 
   provider: "google-gtag"
   google:
-    tracking_id: "UA-171531685-1"
+    tracking_id: ""
     anonymize_ip: false
