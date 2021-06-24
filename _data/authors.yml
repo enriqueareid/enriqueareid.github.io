@@ -1,7 +1,7 @@
 Enrique Reid:
   name        : "Enrique Reid"
-  bio         : "A student interested in deep learning and computer vision."
-  avatar      : "/me.jpg"
+  bio         : "A deep learner on a journey to tar and gzip the world's knowledge into my brain.."
+  avatar      : "/me_square.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
