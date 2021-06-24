@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-author: Machel Reid 
+author: Enrique Reid
 permalink: /blog/
 ---
