@@ -25,7 +25,7 @@ toc_sticky: true
 Python - Proficient\
 HTML - Proficient\
 CSS - Intermediate\
-JavaScript - Beginner\
+JavaScript - Beginner
 
 Git - Intermediate
 
