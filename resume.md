@@ -21,11 +21,11 @@ toc_sticky: true
 ## Skills
 **Languages**: English (Native), Japanese (Intermediate)
 
-**Programming Languages and Frameworks**:
-\Python - Proficient
-\HTML - Proficient
-\CSS - Intermediate
-\JavaScript - Beginner
+**Programming Languages and Frameworks:**\
+Python - Proficient\
+HTML - Proficient\
+CSS - Intermediate\
+JavaScript - Beginner
 
 \Git - Intermediate
 
