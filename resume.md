@@ -22,10 +22,10 @@ toc_sticky: true
 **Languages**: English (Native), Japanese (Intermediate)
 
 **Programming Languages and Frameworks**:
-Python - Proficient
-HTML - Proficient
-CSS - Intermediate
-JavaScript - Beginner
+Python - Proficient\
+HTML - Proficient\
+CSS - Intermediate\
+JavaScript - Beginner\\
 
 Git - Intermediate
 
