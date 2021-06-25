@@ -16,7 +16,13 @@ toc_sticky: true
 - [Convolutional Neural Networks](https://coursera.org/share/aef1c75f0558c3a352b85380aa3a6b61)
 
 ## Projects
-
+Morse Code Translation package using Python (programming language) and Git
+- Source Code: https://github.com/enriqueareid/morse-code
+MNIST Classification using Python and Convolutional Neural Networks - 99.6% Accuracy
+- Source Code: https://github.com/enriqueareid/MNIST-Classification
+Create application - Japanese Keyboard Practice - from scratch using HTML, CSS, and JavaScript
+- Website: enriqueareid.github.io/jpk-practice
+- Source Code: https://github.com/enriqueareid/jpk-practice
 
 ## Skills
 **Languages**: English (Native), Japanese (Intermediate)
@@ -27,6 +33,6 @@ HTML - Proficient\
 CSS - Intermediate\
 JavaScript - Beginner
 
-\Git - Intermediate
+Git - Intermediate
 
-**Libraries**: PyTorch, Scikit-Learn, NumPy
+**Libraries:** PyTorch, Scikit-Learn, NumPy
