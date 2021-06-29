@@ -5,7 +5,7 @@
 layout: home
 author: Enrique Reid
 title: Hello! I'm Enrique.
-description: Student
+description: I'm a 14-year-old
 ---
 
 I'm a student.
