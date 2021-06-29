@@ -4,11 +4,7 @@
 
 layout: home
 author: Enrique Reid
-title: Enrique Reid.
-description: I'm a 14-year-old
+title: Enrique Reid
 ---
 
-I'm a 14-year-old student who is interested in Machine Learning
-
-## News
-Projects
+I'm a 14-year-old student who is interested in Machine Learning. I am currently looking for opport
