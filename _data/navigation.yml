@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Projects"
-    url: /projects/
   - title: "Resume/CV"
     url: /resume
   # - title: "Blog"
