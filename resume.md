@@ -7,7 +7,7 @@ toc: true
 toc_label: "Resume/CV"
 toc_sticky: true
 ---
-[PDF Version](/resources/enriqueareid_resume.pdf)
+[PDF Version](/resources/resume.pdf)
 
 ## Courses / Certificates
 - [Neural Networks and Deep Learning](https://coursera.org/share/20490e5bf77f82d647696b68566b65fd)
