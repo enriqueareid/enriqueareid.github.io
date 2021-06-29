@@ -4,11 +4,11 @@
 
 layout: home
 author: Enrique Reid
-title: Hello! I'm Enrique.
+title: Enrique Reid.
 description: I'm a 14-year-old
 ---
 
-I'm a student.
+I'm a 14-year-old student who is interested in Machine Learning
 
 ## News
 Projects
