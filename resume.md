@@ -20,6 +20,11 @@ toc_sticky: true
 - [MNIST Classification](https://github.com/enriqueareid/MNIST-Classification) using Python and Convolutional Neural Networks - 99.6% Accuracy
 - [Japanese Keyboard Practice](enriqueareid.github.io/jpk-practice) made from scratch using HTML, CSS, and JavaScript
 
+## Awards / Honors
+- Represented Japan Soccer Team in the Gothia Cup (July 2019)
+- Associate Member of The Masason Foundation (July 2021)
+
+
 ## Skills
 **Languages**: English (Native), Japanese (Intermediate)
 
