@@ -21,9 +21,9 @@ toc_sticky: true
 - [Japanese Keyboard Practice](enriqueareid.github.io/jpk-practice) made from scratch using HTML, CSS, and JavaScript
 
 ## Awards / Honors
-- Represented Japan Soccer Team in the Gothia Cup (July 2019)
-- Associate Member of The Masason Foundation (July 2021)
-
+- Represented Japan Soccer Team in the [Gothia Cup](https://gothiacup.se) (July 2019)
+- Associate Member of the [Masason Foundation](https://masason-foundation.org/en) (July 2021)
+- [Achieved an SAT score of 1430 – 98th percentile](/resources/sat.pdf) (Oct 2021)
 
 ## Skills
 **Languages**: English (Native), Japanese (Intermediate)
